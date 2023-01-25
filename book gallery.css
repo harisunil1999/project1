@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital,wght@0,700;1,400&display=swap');
+
+.a{
+    width: 22%;
+    height: 630px;
+    background-color: #008080;
+    border: #eceff1 solid 2px;
+    float: left;
+    padding: 28px;
+    border-radius: 20px;
+}
+img{
+    width: 95%;
+    height: 268px;
+}   
+h1{
+    color:#FF7F50;
+    text-align: center;
+    font-family: 'Gentium Book Basic', serif;
+    font-size: xx-large;
+}
+    
+h4{
+    color: rgb(219, 213, 211);
+    text-align: center;
+    font-family: 'Gentium Book Basic', serif;
+   
+    
+}
+h5{
+    color: #141313;
+    font-family: 'Gentium Book Basic', serif;
+    font-size:xx-large;
+}
